@@ -23,23 +23,22 @@ en: &DEFAULT_EN
     list:
       - title: '414th Tactical Fighter Squadron "Phantom Eagles"'
         desc: "Our flagship squadron. These cream of the crop pilots are masters of their F-15E and F-15C airframes."
-        #icon: /assets/img/squadron/logo.png #fas fa-shopping-cart #find more at https://fontawesome.com/icons
-        #icon: assets/img/squadron/logo.png
+        icon: fas fa-jet-fighter
       - title: '40th Tactical Fighter Squadron "Voodoos"'
         desc: "Our residential F-16C and JF-17 squadron."
-        #icon: assets/img/squadron/logo.png
+        icon: fas fa-jet-fighter
       - title: "414th Naval Operations Squadron"
         desc: "Our residential F/A-18C and F-14B squadron."
-        #icon: assets/img/squadron/logo.png
+        icon: fas fa-jet-fighter
       #- title: "414th Mission Support Squadron"
       #  desc: "Mission design, livery and mod development, air battle management and other supporting roles."
       #  image: assets/img/squadron/logo.png
 
-  #portfolio:
-  #  title: "Gallery"
-  #  text: ""
-  #  section: gallery
-  #  closebutton: "Close"
+  portfolio:
+    title: "Gallery"
+    text: ""
+    section: gallery
+    closebutton: "Close"
 
   clients:
     section: gallery
@@ -106,7 +105,7 @@ en: &DEFAULT_EN
         desc: "In March 2022, the 414th JFG command agreed on a restructure to re-align our identity more closely with the USAF and the F-15 platform."
         image: assets/img/timeline/restructure.png
         alt:
-    end: "Today"
+    end: "</br>Today"
 
   #clients:
     #section: clients
