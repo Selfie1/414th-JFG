@@ -13,14 +13,14 @@ en: &DEFAULT_EN
   nav:
     - title: "Squadrons"
       section: squadrons
-    - title: "Gallery"
-      section: gallery
     - title: "About"
       section: about
     - title: "Timeline"
       section: timeline
     - title: "Team"
       section: team
+    - title: "Gallery"
+      section: gallery
     - title: "Contact"
       section: contact
     - title: "Discord"
