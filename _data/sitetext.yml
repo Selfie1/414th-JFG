@@ -16,11 +16,11 @@ en: &DEFAULT_EN
     button: Tell Me More
     buttonlink: "#squadrons"
 
-  #services:
-  #  title: "Squadrons"
-  #  text: ""
-  #  section: squadrons
-  #  list:
+  services:
+    title: ""
+    text: ""
+    section: services
+    list:
   #    - title: '414th Tactical Fighter Squadron "Phantom Eagles"'
   #      desc: "Our flagship squadron. These cream of the crop pilots are masters of their F-15E and F-15C airframes."
   #      icon: fas fa-solid fa-jet-fighter
@@ -36,7 +36,7 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "Squadrons"
-    text: ""
+    text: " "
     section: squadrons
     closebutton: "Close"
 
