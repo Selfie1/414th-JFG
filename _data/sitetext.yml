@@ -87,22 +87,22 @@ en: &DEFAULT_EN
     events:
       - title: "414th JFG Established"
         year: "April 7th 2018"
-        desc: "On April 7th 2018, the 414th Joint Fighter Group was found."
+        desc: "On April 7th 2018, the 414th Joint Fighter Group was found"
         image: assets/img/timeline/founding.png
         alt:
       - title: "414th JFG under new command"
         year: "Autumn 2018"
-        desc: '[414th] DFA "Selfie" assumes command of the 414th JFG together with [414th] SugarBear125 "Fog".'
+        desc: 'Commander DFA "Selfie" assumes command of the 414th JFG together with Deputy Commander SugarBear125 "Fog"'
         image: assets/img/timeline/leadership.png
         alt: 
       - title: '414th JFG "Phantom Eagles"'
         year: "June 6th 2019"
-        desc: 'On June 6th 2019, the 414th JFG adopted the nickname "Phantom Eagles" after public vote.'
+        desc: 'On June 6th 2019, the 414th JFG adopted the nickname "Phantom Eagles" after public vote'
         image: assets/img/timeline/phantom-eagles.png
         alt:
       - title: "414th JFG major restructure"
         year: "March 2022"
-        desc: "In March 2022, the 414th JFG command agreed on a restructure to re-align our identity more closely with the USAF and the F-15 platform."
+        desc: "In March 2022, the 414th JFG command agreed on a restructure to re-align our identity more closely with the USAF and the F-15 platform"
         image: assets/img/timeline/restructure.png
         alt:
     end: "</br>Today"
