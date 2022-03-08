@@ -1,5 +1,5 @@
 ---
-title: 414th JFG "Phantom Eagles"
+title: 414th JFG
 subtitle: ""
 image: assets/img/portfolio/03-full.png
 

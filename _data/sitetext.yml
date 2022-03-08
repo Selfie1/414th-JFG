@@ -24,22 +24,54 @@ en: &DEFAULT_EN
       - title: '414th Tactical Fighter Squadron "Phantom Eagles"'
         desc: "Our flagship squadron. These cream of the crop pilots are masters of their F-15E and F-15C airframes."
         #icon: /assets/img/squadron/logo.png #fas fa-shopping-cart #find more at https://fontawesome.com/icons
-        icon: assets/img/squadron/logo.png
+        #icon: assets/img/squadron/logo.png
       - title: '40th Tactical Fighter Squadron "Voodoos"'
         desc: "Our residential F-16C and JF-17 squadron."
-        icon: assets/img/squadron/logo.png
+        #icon: assets/img/squadron/logo.png
       - title: "414th Naval Operations Squadron"
         desc: "Our residential F/A-18C and F-14B squadron."
-        icon: assets/img/squadron/logo.png
+        #icon: assets/img/squadron/logo.png
       #- title: "414th Mission Support Squadron"
       #  desc: "Mission design, livery and mod development, air battle management and other supporting roles."
       #  image: assets/img/squadron/logo.png
 
-  portfolio:
-    title: "Gallery"
-    text: ""
+  #portfolio:
+  #  title: "Gallery"
+  #  text: ""
+  #  section: gallery
+  #  closebutton: "Close"
+
+  clients:
     section: gallery
-    closebutton: "Close"
+    max-height: 500px
+    horizontal-scrolling: "yes"
+    list:
+      - title: ""
+        logo: assets/img/clients/01-full.png
+      - title: ""
+        logo: assets/img/clients/02-full.png
+      - title: ""
+        logo: assets/img/clients/03-full.png
+      - title: ""
+        logo: assets/img/clients/04-full.png
+      - title: ""
+        logo: assets/img/clients/05-full.png
+      - title: ""
+        logo: assets/img/clients/06-full.png
+      - title: ""
+        logo: assets/img/clients/07-full.png
+      - title: ""
+        logo: assets/img/clients/08-full.png
+      - title: ""
+        logo: assets/img/clients/09-full.png
+      - title: ""
+        logo: assets/img/clients/10-full.png
+      - title: ""
+        logo: assets/img/clients/11-full.png
+      - title: ""
+        logo: assets/img/clients/12-full.png
+      - title: ""
+        logo: assets/img/clients/13-full.png
 
   about:
     title: "About Us"
@@ -57,7 +89,7 @@ en: &DEFAULT_EN
       - title: "414th JFG Established"
         year: "April 7th 2018"
         desc: "On April 7th 2018, the 414th Joint Fighter Group was found."
-        image: assets/img/squadron/logo.png
+        image: assets/img/timeline/founding.png
         alt:
       - title: "414th JFG under new command"
         year: "Autumn 2018"
