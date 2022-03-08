@@ -21,10 +21,10 @@ en: &DEFAULT_EN
     text: "414th JFG structure"
     section: squadrons
     list:
-      - title: "414th Tactical Fighter Squadron \"Phantom Eagles\""
+      - title: '414th Tactical Fighter Squadron "Phantom Eagles"'
         desc: "Our flagship squadron. These cream of the crop pilots are masters of their F-15E and F-15C airframes."
         icon: /assets/img/squadron/logo.png #fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "40th Tactical Fighter Squadron \"Voodoos\""
+      - title: '40th Tactical Fighter Squadron "Voodoos"'
         desc: "Our residential F-16C and JF-17 squadron."
         icon: /assets/img/squadron/logo.png
       - title: "414th Naval Operations Squadron"
@@ -60,12 +60,12 @@ en: &DEFAULT_EN
         alt:
       - title: "414th JFG under new command"
         year: "2018"
-        desc: "[414th] DFA \"Selfie\" assumes command of the 414th JFG together with [414th] SugarBear125 \"Fog\"."
+        desc: '[414th] DFA "Selfie" assumes command of the 414th JFG together with [414th] SugarBear125 "Fog".'
         image: /assets/img/squadron/leadership.png
         alt: 
-      - title: "414th JFG \"Phantom Eagles\""
+      - title: '414th JFG "Phantom Eagles"'
         year: "2019"
-        desc: "On June 6th 2019, the 414th JFG adopted the nickname \"Phantom Eagles\" after public vote."
+        desc: 'On June 6th 2019, the 414th JFG adopted the nickname "Phantom Eagles" after public vote.'
         image: /assets/img/timeline/phantom-eagles.png
         alt:
       - title: "414th JFG major restructure"
@@ -99,19 +99,19 @@ en: &DEFAULT_EN
     subtext: 
     section: team
     people:
-      - name: "Commander DFA \"Selfie\""
+      - name: 'Commander DFA "Selfie"'
         role: "Commander, Air Group"
         image: assets/img/team/500x500.jpg
-      - name: "Major SugarBear125 \"Fog\""
+      - name: 'Major SugarBear125 "Fog"'
         role: "Deputy Commander, Air Group"
         image: assets/img/team/500x500.jpg
-      - name: "Major X3ntr \"Cerberus\""
+      - name: 'Major X3ntr "Cerberus"'
         role: "Executive Officer"
         image: assets/img/team/500x500.jpg
-      - name: "Major Kray \"Bunny\""
+      - name: 'Major Kray "Bunny"'
         role: "Flight Commander"
         image: assets/img/team/500x500.jpg
-      - name: "Captain Banana \"Error\""
+      - name: 'Captain Banana "Error"'
         role: "Assistant Flight Commander"
         image: assets/img/team/500x500.jpg
 
