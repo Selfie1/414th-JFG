@@ -17,10 +17,10 @@ en: &DEFAULT_EN
     buttonlink: "#squadrons"
 
   services:
-    title: ""
-    text: ""
-    section: services
-    list:
+  #  title: ""
+  #  text: ""
+  #  section: services
+  #  list:
   #    - title: '414th Tactical Fighter Squadron "Phantom Eagles"'
   #      desc: "Our flagship squadron. These cream of the crop pilots are masters of their F-15E and F-15C airframes."
   #      icon: fas fa-solid fa-jet-fighter
@@ -34,11 +34,11 @@ en: &DEFAULT_EN
       #  desc: "Mission design, livery and mod development, air battle management and other supporting roles."
       #  image: assets/img/squadron/logo.png
 
-  portfolio:
-    title: "Squadrons"
-    text: " "
-    section: squadrons
-    closebutton: "Close"
+  #portfolio:
+    #title: "Squadrons"
+    #text: " "
+    #section: squadrons
+    #closebutton: "Close"
 
   clients:
     section: gallery
