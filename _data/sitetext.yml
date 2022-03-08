@@ -34,11 +34,11 @@ en: &DEFAULT_EN
       #  desc: "Mission design, livery and mod development, air battle management and other supporting roles."
       #  image: assets/img/squadron/logo.png
 
-  portfolio:
-    title: "Gallery"
-    text: ""
-    section: gallery
-    closebutton: "Close"
+  #portfolio:
+    #title: "Gallery"
+    #text: ""
+    #section: gallery
+    #closebutton: "Close"
 
   clients:
     section: gallery
