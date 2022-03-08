@@ -18,60 +18,61 @@ en: &DEFAULT_EN
 
   services:
     title: "Squadrons"
-    text: "414th JFG structure"
+    text: ""
     section: squadrons
     list:
       - title: '414th Tactical Fighter Squadron "Phantom Eagles"'
         desc: "Our flagship squadron. These cream of the crop pilots are masters of their F-15E and F-15C airframes."
-        icon: /assets/img/squadron/logo.png #fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        #icon: /assets/img/squadron/logo.png #fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        image: assets/img/squadron/logo.png
       - title: '40th Tactical Fighter Squadron "Voodoos"'
         desc: "Our residential F-16C and JF-17 squadron."
-        icon: /assets/img/squadron/logo.png
+        image: assets/img/squadron/logo.png
       - title: "414th Naval Operations Squadron"
         desc: "Our residential F/A-18C and F-14B squadron."
-        icon: /assets/img/squadron/logo.png
-      - title: "414th Mission Support Squadron"
-        desc: "Mission design, livery and mod development, air battle management and other supporting roles."
-        icon: /assets/img/squadron/logo.png
+        image: assets/img/squadron/logo.png
+      #- title: "414th Mission Support Squadron"
+      #  desc: "Mission design, livery and mod development, air battle management and other supporting roles."
+      #  image: assets/img/squadron/logo.png
 
   portfolio:
     title: "Gallery"
-    text: "414th JFG eyecandy"
+    text: ""
     section: gallery
     closebutton: "Close"
 
   about:
     title: "About Us"
-    #text: ""
+    text: ""
     body: "The 414th Joint Fighter Group was formally established on April 7th, 2018. We are a casual mil-sim flight group based around DCS World, that provides training for newer or inexperienced pilots and a place to call home for those looking to be part of a multiplayer squadron. The 414th JFG is primarily oriented towards PvE combat, with an occasional mix of joint operations and squadron versus squadron (PvP) battles with other wings or squadrons in DCS World."
     section: about
 
   timeline:
     title: "Timeline"
-    #text: ""
+    text: ""
     section: timeline
     # left is the default
     #start_align: "left"
     events:
       - title: "414th JFG Established"
-        year: "2018"
+        year: "April 7th 2018"
         desc: "On April 7th 2018, the 414th Joint Fighter Group was found."
         image: assets/img/squadron/logo.png
         alt:
       - title: "414th JFG under new command"
-        year: "2018"
+        year: "Autumn 2018"
         desc: '[414th] DFA "Selfie" assumes command of the 414th JFG together with [414th] SugarBear125 "Fog".'
-        image: /assets/img/squadron/leadership.png
+        image: assets/img/squadron/leadership.png
         alt: 
       - title: '414th JFG "Phantom Eagles"'
-        year: "2019"
+        year: "June 6th 2019"
         desc: 'On June 6th 2019, the 414th JFG adopted the nickname "Phantom Eagles" after public vote.'
-        image: /assets/img/timeline/phantom-eagles.png
+        image: assets/img/timeline/phantom-eagles.png
         alt:
       - title: "414th JFG major restructure"
-        year: "2022"
+        year: "March 2022"
         desc: "In March 2022, the 414th JFG command agreed on a restructure to re-align our identity more closely with the USAF and the F-15 platform."
-        image: /assets/img/timeline/restructure.png
+        image: assets/img/timeline/restructure.png
         alt:
     end: "Today"
 
@@ -101,19 +102,19 @@ en: &DEFAULT_EN
     people:
       - name: 'Commander DFA "Selfie"'
         role: "Commander, Air Group"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/500x500.png
       - name: 'Major SugarBear125 "Fog"'
         role: "Deputy Commander, Air Group"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/500x500.png
       - name: 'Major X3ntr "Cerberus"'
         role: "Executive Officer"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/500x500.png
       - name: 'Major Kray "Bunny"'
         role: "Flight Commander"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/500x500.png
       - name: 'Captain Banana "Error"'
         role: "Assistant Flight Commander"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/500x500.png
 
   contact:
     title: "Contact Us"
