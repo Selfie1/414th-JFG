@@ -8,3 +8,4 @@ caption:
   subtitle: "Voodoos"
   thumbnail: assets/img/portfolio/14-full.png
 ---
+Our residential F-16C and JF-17 squadron.

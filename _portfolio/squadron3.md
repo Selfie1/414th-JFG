@@ -8,3 +8,4 @@ caption:
   subtitle: ""
   thumbnail: assets/img/portfolio/02-full.png
 ---
+Our residential F/A-18C and F-14B squadron.
