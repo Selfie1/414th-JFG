@@ -1,7 +1,7 @@
 ---
-#title: Project Threads
-#subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-#image: assets/img/portfolio/01-full.jpg
+title: 414th JFG "Phantom Eagles"
+subtitle: ""
+image: assets/img/portfolio/05-full.png
 
 caption:
   title: 

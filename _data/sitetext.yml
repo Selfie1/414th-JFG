@@ -49,7 +49,7 @@ en: &DEFAULT_EN
 
   timeline:
     title: "Timeline"
-    text: ""
+    text: " "
     section: timeline
     # left is the default
     #start_align: "left"
@@ -62,7 +62,7 @@ en: &DEFAULT_EN
       - title: "414th JFG under new command"
         year: "Autumn 2018"
         desc: '[414th] DFA "Selfie" assumes command of the 414th JFG together with [414th] SugarBear125 "Fog".'
-        image: assets/img/squadron/leadership.png
+        image: assets/img/timeline/leadership.png
         alt: 
       - title: '414th JFG "Phantom Eagles"'
         year: "June 6th 2019"
