@@ -16,29 +16,29 @@ en: &DEFAULT_EN
     button: Tell Me More
     buttonlink: "#squadrons"
 
-  services:
-    title: "Squadrons"
-    text: ""
-    section: squadrons
-    list:
-      - title: '414th Tactical Fighter Squadron "Phantom Eagles"'
-        desc: "Our flagship squadron. These cream of the crop pilots are masters of their F-15E and F-15C airframes."
-        icon: fas fa-solid fa-jet-fighter
-      - title: '40th Tactical Fighter Squadron "Voodoos"'
-        desc: "Our residential F-16C and JF-17 squadron."
-        icon: fas fa-solid fa-jet-fighter
-      - title: "414th Naval Operations Squadron"
-        desc: "Our residential F/A-18C and F-14B squadron."
-        icon: fas fa-solid fa-jet-fighter
+  #services:
+  #  title: "Squadrons"
+  #  text: ""
+  #  section: squadrons
+  #  list:
+  #    - title: '414th Tactical Fighter Squadron "Phantom Eagles"'
+  #      desc: "Our flagship squadron. These cream of the crop pilots are masters of their F-15E and F-15C airframes."
+  #      icon: fas fa-solid fa-jet-fighter
+  #    - title: '40th Tactical Fighter Squadron "Voodoos"'
+  #      desc: "Our residential F-16C and JF-17 squadron."
+  #      icon: fas fa-solid fa-jet-fighter
+  #    - title: "414th Naval Operations Squadron"
+  #      desc: "Our residential F/A-18C and F-14B squadron."
+  #      icon: fas fa-solid fa-jet-fighter
       #- title: "414th Mission Support Squadron"
       #  desc: "Mission design, livery and mod development, air battle management and other supporting roles."
       #  image: assets/img/squadron/logo.png
 
-  #portfolio:
-    #title: "Gallery"
-    #text: ""
-    #section: gallery
-    #closebutton: "Close"
+  portfolio:
+    title: "Squadrons"
+    text: ""
+    section: squadrons
+    closebutton: "Close"
 
   clients:
     section: gallery
