@@ -18,7 +18,7 @@ url    : "https://selfie1.github.io" # the base hostname & protocol for your sit
 baseurl: "/414th-JFG" # the subpath of your site, e.g. /blog
 
 title      : 414th JFG
-email      : your-email@example.com #this is also the email contact forms will go to
+email      : 414thjointfightergroup@gmail.com #this is also the email contact forms will go to
 description: "414th Joint Fighter Group virtual DCS squadron"
 author     : X3ntr
 logo:     #optional, defaults to site title
