@@ -14,7 +14,7 @@
 #theme: jekyll-agency
 remote_theme: raviriley/agency-jekyll-theme
 
-url    : "https://x3ntr.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url    : "https://selfie1.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/414th-JFG" # the subpath of your site, e.g. /blog
 
 title      : 414th JFG
